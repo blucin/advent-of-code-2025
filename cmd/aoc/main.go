@@ -6,6 +6,7 @@ import (
 	"strconv"
 
 	"aoc-2025/day_01"
+	"aoc-2025/day_02"
 )
 
 func main() {
@@ -25,6 +26,8 @@ func main() {
 	switch day {
 	case 1:
 		part1, part2 = day_01.Solve()
+	case 2:
+		part1, part2 = day_02.Solve()
 	default:
 		fmt.Printf("Day %d not implemented yet\n", day)
 		return

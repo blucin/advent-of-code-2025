@@ -19,3 +19,4 @@ go run .\cmd\aoc\main.go <day_number>
 | days | part1 | part2 |
 | ---- | :---: | :---: |
 | 01   |   *   |   *   |
+| 02   |   *   |   *   |

@@ -8,7 +8,8 @@ This repo contains my solutions for the [Advent of Code 2025](https://adventofco
 
 1. Make sure you have Go installed.
 2. Clone this repository.
-3. From the project root:
+3. Make sure your inputs exists inside `inputs/` and save them with `LF` line endings.
+4. From the project root:
 
 ```bash
 go run .\cmd\aoc\main.go <day_number>
@@ -20,3 +21,4 @@ go run .\cmd\aoc\main.go <day_number>
 | ---- | :---: | :---: |
 | 01   |   *   |   *   |
 | 02   |   *   |   *   |
+| 03   |   *   |   *   |

@@ -7,6 +7,7 @@ import (
 
 	"aoc-2025/day_01"
 	"aoc-2025/day_02"
+	"aoc-2025/day_03"
 )
 
 func main() {
@@ -28,6 +29,8 @@ func main() {
 		part1, part2 = day_01.Solve()
 	case 2:
 		part1, part2 = day_02.Solve()
+	case 3:
+		part1, part2 = day_03.Solve()
 	default:
 		fmt.Printf("Day %d not implemented yet\n", day)
 		return

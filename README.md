@@ -22,3 +22,4 @@ go run .\cmd\aoc\main.go <day_number>
 | 01   |   *   |   *   |
 | 02   |   *   |   *   |
 | 03   |   *   |   *   |
+| 04   |   *   |   *   |
